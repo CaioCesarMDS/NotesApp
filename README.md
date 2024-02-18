@@ -11,6 +11,8 @@
 <h1>Sobre o Projeto</h1>
 <p>O projeto consiste em um aplicativo para criar, visualizar e excluir notas. Ele permite aos usuários adicionar novas notas de texto ou gravar notas de áudio que são automaticamente transcritas para texto. Além disso, as notas são armazenadas localmente no navegador.</p>
 
+**Veja o projeto rodando aqui** -> [NotesApp](https://cc-notes-app.vercel.app/)
+
 <br>
 
 <h1>Pré-requisitos</h1>
